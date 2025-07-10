@@ -1,0 +1,10 @@
+export const MOCK_DATA = [{"id":1,"first_name":"Cornall","last_name":"Hynd","email":"chynd0@hud.gov","gender":"Male","ip_address":"72.238.31.146"},
+{"id":2,"first_name":"Phylis","last_name":"Refford","email":"prefford1@unblog.fr","gender":"Female","ip_address":"149.131.11.218"},
+{"id":3,"first_name":"Roosevelt","last_name":"Zukierman","email":"rzukierman2@wisc.edu","gender":"Male","ip_address":"73.29.100.209"},
+{"id":4,"first_name":"Cletis","last_name":"Pinch","email":"cpinch3@squidoo.com","gender":"Male","ip_address":"238.138.245.211"},
+{"id":5,"first_name":"Terrence","last_name":"Lumsden","email":"tlumsden4@nsw.gov.au","gender":"Male","ip_address":"197.96.123.235"},
+{"id":6,"first_name":"Huntlee","last_name":"Gallyhaock","email":"hgallyhaock5@uiuc.edu","gender":"Male","ip_address":"188.161.108.27"},
+{"id":7,"first_name":"Kinna","last_name":"Bickers","email":"kbickers6@bing.com","gender":"Female","ip_address":"109.72.78.179"},
+{"id":8,"first_name":"Willyt","last_name":"Cherry","email":"wcherry7@twitpic.com","gender":"Female","ip_address":"61.79.122.229"},
+{"id":9,"first_name":"Geri","last_name":"Slewcock","email":"gslewcock8@cnn.com","gender":"Male","ip_address":"232.127.6.203"},
+{"id":10,"first_name":"Erica","last_name":"Gibson","email":"egibson9@bloomberg.com","gender":"Agender","ip_address":"229.221.40.158"}]
